@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá! 👋 Eu sou Ketlyn Athan
 
-<!--
-**ketlynathan/ketlynathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engenheira de Software e Desenvolvedora RPA na Lear Corporation, com 2,5 anos de experiência em automação de processos. Trabalho com ferramentas como UiPath, Python e C, e tenho projetos open-source no GitHub.
 
-Here are some ideas to get you started:
+## Habilidades
+- RPA (UiPath)
+- Python
+- C
+- Bancos de Dados Relacionais
+- Documentação Técnica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos
+- [Ponteiro-de-ponteiro-em-C](https://github.com/ketlynathan/Ponteiro-de-ponteiro-em-C)
+- [Árvore Binária em C](https://github.com/ketlynathan/implementa-o-de-arvore-binaria-em-linguagem-C)
+
+## Aprendizado Contínuo
+- Certificação UiPath Automation Explorer
+- Cursos em gestão, oratória e inglês avançado
+
+Vamos colaborar? 📧 [Entre em contato](mailto:k***@lear.com) ou explore meus repositórios!
