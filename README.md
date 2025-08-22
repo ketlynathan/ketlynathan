@@ -1,6 +1,6 @@
 # Olá! 👋 Eu sou Ketlyn Athan
 
-Engenheira de Software e Desenvolvedora RPA na Lear Corporation, com 2,5 anos de experiência em automação de processos. Trabalho com UiPath, Python, C e banco de dados relacionais, contribuindo com projetos open-source.
+Engenheira de Software e Desenvolvedora RPA, com 2,5 anos de experiência em automação de processos. Trabalho com UiPath, Python, C e banco de dados relacionais, contribuindo com projetos open-source.
 
 ## Habilidades
 - RPA (UiPath) ![UiPath](https://img.shields.io/badge/UiPath-Certified-blue)
