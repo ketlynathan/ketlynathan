@@ -10,7 +10,8 @@ Engenheira de Software e Desenvolvedora RPA, com 2,5 anos de experiência em aut
 - Documentação Técnica
 
 ## Projetos
-- [Ponteiro-de-ponteiro-em-C](https://github.com/ketlynathan/Ponteiro-de-ponteiro-em-C) - Exploração de ponteiros em C.
+- [TCC-24: Análise de Atividades Físicas](https://github.com/ketlynathan/TCC-24) - Aplicação web para análise de dados de atividades físicas de wearables, desenvolvida com Streamlit, Python, Pandas e Power BI.
+- [Ponteiro-de-ponteiro-em-C]) - Exploração de ponteiros em C.
 - [Árvore Binária em C](https://github.com/ketlynathan/implementa-o-de-arvore-binaria-em-linguagem-C) - Implementação completa de árvore binária.
 
 ## Aprendizado Contínuo
@@ -21,4 +22,3 @@ Engenheira de Software e Desenvolvedora RPA, com 2,5 anos de experiência em aut
 - [LinkedIn](https://www.linkedin.com/in/ketlyn-athan-633a41187/)
 - 📧 [kathantech@gmail.com](mailto:ketlynathan99@outlook.com)
 
-Vamos colaborar? Explore meus repositórios e me chame para projetos inovadores!
