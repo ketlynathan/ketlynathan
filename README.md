@@ -3,8 +3,7 @@
 Engenheira de Software e Desenvolvedora RPA, com 2,5 anos de experiência em automação de processos. Trabalho com UiPath, Python, C e banco de dados relacionais, contribuindo com projetos open-source.
 
 ## Habilidades
-- RPA (UiPath) ![Uipath Advance](https://github.com/user-attachments/assets/6a349912-b785-4751-a50e-bab79cac42a1)
-elds.io/badge/UiPath-Certified-blue)
+- [RPA (UiPath)](https://github.com/user-attachments/assets/6a349912-b785-4751-a50e-bab79cac42a)
 - Python
 - C
 - Bancos de Dados Relacionais
