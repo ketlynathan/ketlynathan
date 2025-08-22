@@ -11,7 +11,7 @@ Engenheira de Software e Desenvolvedora RPA, com 2,5 anos de experiência em aut
 
 ## Projetos
 - [TCC-24: Análise de Atividades Físicas](https://github.com/ketlynathan/TCC-24) - Aplicação web para análise de dados de atividades físicas de wearables, desenvolvida com Streamlit, Python, Pandas e Power BI.
-- [Ponteiro-de-ponteiro-em-C]) - Exploração de ponteiros em C.
+- [GuiaPergunta])(https://github.com/ketlynathan/guiaPergunta) - Uma aplicação web, desenvolvida com JavaScript, Node.js, EJS e MySQL
 - [Árvore Binária em C](https://github.com/ketlynathan/implementa-o-de-arvore-binaria-em-linguagem-C) - Implementação completa de árvore binária.
 
 ## Aprendizado Contínuo
