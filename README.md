@@ -20,5 +20,5 @@ Engenheira de Software e Desenvolvedora RPA, com 2,5 anos de experiência em aut
 
 ## Contato
 - [LinkedIn](https://www.linkedin.com/in/ketlyn-athan-633a41187/)
-- 📧 [kathantech@gmail.com](mailto:ketlynathan99@outlook.com)
+- 📧 [ketlynathan@outlook.com](mailto:ketlynathan99@outlook.com)
 
