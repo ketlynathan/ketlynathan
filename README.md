@@ -37,3 +37,38 @@
 ## 🐍 Python para BI e Automação
 ```python
 pandas | numpy | matplotlib | seaborn | requests | BeautifulSoup
+
+
+Automação de relatórios e extração de dados
+
+Web scraping de APIs e sites (Strava, wearables, etc.)
+
+Pré-processamento e limpeza de dados antes da modelagem
+
+🧠 Banco de Dados
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="SQL" width="60"/>
+
+SQL Server | MySQL | PostgreSQL
+
+Consultas otimizadas, joins e agregações
+
+Criação de pipelines entre SQL e Power BI
+
+Integração com Python via SQLAlchemy
+
+⚙️ Ferramentas & Ambiente de Trabalho
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.svg" alt="Linux" width="60"/>
+
+Git | GitHub | VS Code | Jupyter | Linux | Streamlit
+
+Ambiente orientado a versionamento, automação e entrega ágil de insights.
+
+💡 Tecnologias Utilizadas
+Tecnologia	Ícone	URL
+Power BI	<img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" width="40"/>	Link
+
+Python	<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40"/>	Link
+
+SQL	<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="40"/>	Link
+
+Linux	<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.svg" width="40"/>	Link
