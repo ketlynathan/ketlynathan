@@ -5,7 +5,7 @@
 
 ---
 - ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-![Made with Linux](https://upload.wikimedia.org/wikipedia/commons/9/9d/Made_with_Linux_fuchsia.svg)
+- ![Linux](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.svg)
 
 ## 🎓 Certificações e Formação
 
