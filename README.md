@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Power BI & Visualização de Dados
-<img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" alt="Power BI" width="60"/>
+<img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" width="40"/>
 
 - Modelagem de dados com **Power Query**  
 - Criação de dashboards com **DAX** e **visual storytelling**  
@@ -24,7 +24,7 @@
 - Construção de relatórios executivos com foco em performance e clareza
 
 ---
-- ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) 
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40"/> 
 ## 🐍 Python para BI e Automação
 
 **pandas | numpy | matplotlib | seaborn | requests | BeautifulSoup**
@@ -38,7 +38,7 @@
 - Pré-processamento e limpeza de dados antes da modelagem
 
 ## Banco de Dados
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="40"
 SQL Server | MySQL | PostgreSQL
 
 ---
