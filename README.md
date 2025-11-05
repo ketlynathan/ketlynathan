@@ -15,7 +15,7 @@
 
 ---
 
- <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" width="40"/> 📊 Power BI & Visualização de Dados
+ <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" width="40"/>  Power BI & Visualização de Dados
 
 
 - Modelagem de dados com **Power Query**  
@@ -25,7 +25,7 @@
 
 ---
 
- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40"/> 🐍 Python para BI e Automação
+ <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40"/>  Python para BI e Automação
 
 **pandas | numpy | matplotlib | seaborn | requests | BeautifulSoup**
 
