@@ -6,10 +6,10 @@
 ---
 
 ### Certificações & Formação
-![Python Essentials](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)  
+![Python Essentials]([https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg](https://www.credly.com/badges/3b73417e-fab4-4497-b310-ca984fb58ccb))  
 **Cisco Python Essentials** – Cisco Networking Academy (2024)
 
-![Linux Essentials]([https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.svg](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.svg))  
+![Linux Essentials]([[https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.svg](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.svg)](https://www.credly.com/badges/d1672926-752f-4aea-99a9-da1daa99a67f))  
 **Cisco Linux Essentials** – Cisco Networking Academy (2024)
 
 ---
