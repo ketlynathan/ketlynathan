@@ -1,8 +1,5 @@
-### Habilidades em Análise de Dados
-
-#### Python para Dados
 # Olá! Eu sou Ketly Nathan  
-**Analista de Dados | Python | Power BI | Web Scraping**
+**Analista de Dados | Python | Power BI | Web Scraping | Automação de processos**
 
 > *Transformando dados em decisões com Python, SQL e visualizações inteligentes.*
 
@@ -12,7 +9,7 @@
 ![Python Essentials](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)  
 **Cisco Python Essentials** – Cisco Networking Academy (2024)
 
-![Linux Essentials](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.svg)  
+![Linux Essentials]([https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.svg](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.svg))  
 **Cisco Linux Essentials** – Cisco Networking Academy (2024)
 
 ---
