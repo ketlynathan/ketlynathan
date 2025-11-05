@@ -6,11 +6,7 @@
 ---
 
 ## 🎓 Certificações e Formação
-
-- ![Power BI](https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg)  
-  **Business Intelligence Foundations** – Microsoft Learn (2024)
-
-- ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)  
+ 
   **Cisco Python Essentials** – Cisco Networking Academy (2024)  
   [Ver Credencial](https://www.credly.com/badges/3b73417e-fab4-4497-b310-ca984fb58ccb)
 
@@ -33,7 +29,7 @@
 [Baixar .pbix](https://github.com/ketlynathan/TCC-24/releases/download/v1.0/Dashboard_TCC24_Atividades_Fisicas.pbix)
 
 ---
-
+- ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) 
 ## 🐍 Python para BI e Automação
 ```python
 pandas | numpy | matplotlib | seaborn | requests | BeautifulSoup
