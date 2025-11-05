@@ -9,8 +9,7 @@
  
   **Cisco Python Essentials** – Cisco Networking Academy (2024)  
   [Ver Credencial](https://www.credly.com/badges/3b73417e-fab4-4497-b310-ca984fb58ccb)
-
-- ![Linux](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.svg)  
+  
   **Cisco Linux Essentials** – Cisco Networking Academy (2024)  
   [Ver Credencial](https://www.credly.com/badges/d1672926-752f-4aea-99a9-da1daa99a67f)
 
