@@ -15,7 +15,7 @@
 
 ---
 
- <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" width="40"/> ## 📊 Power BI & Visualização de Dados
+ <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" width="40"/> 📊 Power BI & Visualização de Dados
 
 
 - Modelagem de dados com **Power Query**  
@@ -25,7 +25,7 @@
 
 ---
 
- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40"/> ## 🐍 Python para BI e Automação
+ <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40"/> 🐍 Python para BI e Automação
 
 **pandas | numpy | matplotlib | seaborn | requests | BeautifulSoup**
 
@@ -33,12 +33,13 @@
 
 - Automação de relatórios e extração de dados
 
-- Web scraping de APIs e sites (Strava, wearables, etc.)
+- Web scraping de APIs e sites
 
 - Pré-processamento e limpeza de dados antes da modelagem
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="40"/> ## Banco de Dados
-SQL Server | MySQL | PostgreSQL
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="40"/>  Banco de Dados
+
+**SQL Server | MySQL | PostgreSQL**
 
 ---
 
@@ -48,20 +49,11 @@ SQL Server | MySQL | PostgreSQL
 
 - Integração com Python via SQLAlchemy
 
-> Ferramentas & Ambiente de Trabalho
+## Ferramentas & Ambiente de Trabalho
 
-Git | GitHub | VS Code | Jupyter | Linux | Streamlit
+**Git | GitHub | VS Code | Jupyter | Linux | Streamlit**
 
 ---
 
 - Ambiente orientado a versionamento, automação e entrega ágil de insights.
 
-## Tecnologias Utilizadas
-Tecnologia	Ícone	URL
-Power BI	<img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" width="40"/>	Link
-
-Python	<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40"/>	Link
-
-SQL	<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="40"/>	Link
-
-Linux	<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.svg" width="40"/>	Link
