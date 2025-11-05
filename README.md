@@ -49,6 +49,20 @@
 
 - Integração com Python via SQLAlchemy
 
+
+## ⚙️ **CI/CD** e Automação de Deploys
+
+---
+
+- Experiência com GitHub Actions 
+
+- Integração contínua de scripts Python e relatórios Power BI
+
+- Deploy automatizado de dashboards e APIs
+
+- Testes automatizados e versionamento de pipelines
+
+
 ## Ferramentas & Ambiente de Trabalho
 
 **Git | GitHub | VS Code | Jupyter | Linux | Streamlit**
