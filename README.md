@@ -9,7 +9,7 @@
 ![Python Essentials](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)  
 **Cisco Python Essentials** – Cisco Networking Academy (2024)
 
-![Linux Essentials](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.svg)  
+![Linux Essentials](![Logo Linux](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.svg))  
 **Cisco Linux Essentials** – Cisco Networking Academy (2024)
 
 ---
