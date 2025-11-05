@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou a **Ketly Nathan**  
+# 👋 Olá! Eu sou a **Ketlyn Athan**  
 **Engenheira de Software | Analise de dados | Power BI | Python | SQL | Automação de Processos**
 
 > Transformo dados em insights estratégicos com visualizações inteligentes e automação eficiente.
