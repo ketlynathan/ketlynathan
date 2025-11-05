@@ -23,10 +23,6 @@
 - Integração com **Python** e **SQL Server**  
 - Construção de relatórios executivos com foco em performance e clareza
 
-🧭 **Demonstração Power BI**  
-![Dashboard Power BI](https://raw.githubusercontent.com/ketlynathan/TCC-24/main/images/powerbi-dashboard.png)  
-[Baixar .pbix](https://github.com/ketlynathan/TCC-24/releases/download/v1.0/Dashboard_TCC24_Atividades_Fisicas.pbix)
-
 ---
 - ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) 
 ## 🐍 Python para BI e Automação
