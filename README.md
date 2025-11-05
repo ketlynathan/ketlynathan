@@ -27,8 +27,9 @@
 - ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) 
 ## 🐍 Python para BI e Automação
 ```python
-pandas | numpy | matplotlib | seaborn | requests | BeautifulSoup
+**pandas | numpy | matplotlib | seaborn | requests | BeautifulSoup**
 
+---
 
 - Automação de relatórios e extração de dados
 
@@ -36,25 +37,27 @@ pandas | numpy | matplotlib | seaborn | requests | BeautifulSoup
 
 - Pré-processamento e limpeza de dados antes da modelagem
 
-🧠 Banco de Dados
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="SQL" width="60"/>
+## Banco de Dados
 
 SQL Server | MySQL | PostgreSQL
 
-Consultas otimizadas, joins e agregações
+---
 
-Criação de pipelines entre SQL e Power BI
+- Consultas otimizadas, joins e agregações
 
-Integração com Python via SQLAlchemy
+- Criação de pipelines entre SQL e Power BI
 
-⚙️ Ferramentas & Ambiente de Trabalho
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.svg" alt="Linux" width="60"/>
+- Integração com Python via SQLAlchemy
+
+> Ferramentas & Ambiente de Trabalho
 
 Git | GitHub | VS Code | Jupyter | Linux | Streamlit
 
-Ambiente orientado a versionamento, automação e entrega ágil de insights.
+---
 
-💡 Tecnologias Utilizadas
+- Ambiente orientado a versionamento, automação e entrega ágil de insights.
+
+## Tecnologias Utilizadas
 Tecnologia	Ícone	URL
 Power BI	<img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" width="40"/>	Link
 
