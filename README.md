@@ -1,44 +1,42 @@
+# Olá! Eu sou Ketlyn Athan  
+**Analista de Dados | Python | Power BI | Web Scraping**
+
+> *Transformando dados em decisões com Python, SQL e visualizações inteligentes.*
 
 ---
 
-## Como aplicar (passo a passo)
+### Certificações & Formação
+![Python Essentials](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)  
+**Cisco Python Essentials** – Cisco Networking Academy (2024)
 
-1. **Acesse seu perfil**:
-   → [https://github.com/ketlynathan/ketlynathan](https://github.com/ketlynathan/ketlynathan)
-
-2. **Edite o `README.md`**:
-   - Clique no lápis (editar)
-   - **Apague tudo** e **cole o código acima**
-   - Clique em **Commit changes**
-
-3. **Pronto!**  
-   As logos do **Python**, **Linux** e **Power BI** já estão carregando **direto da internet** (sem upload).
+![Linux Essentials](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.svg)  
+**Cisco Linux Essentials** – Cisco Networking Academy (2024)
 
 ---
 
-## Logos usadas (100% online, sem upload)
+### Habilidades em Análise de Dados
 
-| Tecnologia | URL da Logo (SVG) | Fonte Oficial |
-|----------|-------------------|-------------|
-| Python | `https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg` | Python.org / Wikimedia |
-| Linux | `https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.svg` | Linux Kernel |
-| Power BI | `https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg` | Microsoft |
+#### **Python para Dados**
+```python
+pandas | numpy | matplotlib | seaborn | requests | BeautifulSoup
 
-> **Todas são gratuitas para uso em portfólio pessoal.**
+Análise exploratória e limpeza de dados
+Web scraping de APIs e sites (ex: Strava, wearables)
+Automação de relatórios com Python
 
----
+Business Intelligence
+<img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" alt="Power BI">
+Power BI
 
-## Dicas Finais para Reforçar o Perfil
+Modelagem com Power Query
+Dashboards interativos e DAX
+Relatórios executivos com storytelling visual
 
-| Ação | Por quê? |
-|------|--------|
-| **Fixe o TCC-24 no perfil** | É seu maior case de análise de dados |
-| **Crie um repositório `web-scraping-strava`** | Mostra prática real com `requests` + `pandas` |
-| **Adicione um `requirements.txt` no TCC-24** | Demonstra maturidade técnica |
-| **Use GitHub Stats** (opcional) | Ex:  
-```markdown
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ketlynathan&theme=radical)
-``` |
+Banco de Dados
+sqlSQL Server | MySQL | PostgreSQL
 
----
+Consultas avançadas, joins e agregações
+Integração com Python via pyodbc e SQLAlchemy
 
+Ferramentas & Ambiente
+bashGit | GitHub | VS Code | Jupyter | Linux | Streamlit
