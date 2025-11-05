@@ -1,5 +1,5 @@
 # 👋 Olá! Eu sou a **Ketly Nathan**  
-**Analista de BI | Power BI | Python | SQL | Automação de Processos**
+**Engenheira de Software | Analise de dados | Power BI | Python | SQL | Automação de Processos**
 
 > Transformo dados em insights estratégicos com visualizações inteligentes e automação eficiente.
 
@@ -35,11 +35,11 @@
 pandas | numpy | matplotlib | seaborn | requests | BeautifulSoup
 
 
-Automação de relatórios e extração de dados
+- Automação de relatórios e extração de dados
 
-Web scraping de APIs e sites (Strava, wearables, etc.)
+- Web scraping de APIs e sites (Strava, wearables, etc.)
 
-Pré-processamento e limpeza de dados antes da modelagem
+- Pré-processamento e limpeza de dados antes da modelagem
 
 🧠 Banco de Dados
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="SQL" width="60"/>
