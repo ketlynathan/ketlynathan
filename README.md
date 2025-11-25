@@ -1,6 +1,4 @@
-👋 Olá! Eu sou a Ketlyn Athan
-
-Engenheira de Software | QA Tester | Power BI | Python | SQL | Automação de Processos
+Ketlyn Athan
 
 <p align="left">
   <img src="https://img.shields.io/badge/Engenharia%20de%20Software-%230077B5?style=for-the-badge" />
