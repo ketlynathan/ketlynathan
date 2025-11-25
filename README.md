@@ -85,13 +85,21 @@ Integração com Python (SQLAlchemy)
 ---
 
 🛠️ Ferramentas & Ambiente de Trabalho
+GitHub Stats
 
-<p align="left">  <!-- Git -->  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="55" alt="Git"/>  <!-- GitHub -->  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" alt="GitHub"/>  <!-- VS Code -->  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" alt="VS Code"/>  <!-- Jupyter -->  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55" alt="Jupyter"/>  <!-- Linux -->  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" alt="Linux"/>  <!-- Streamlit -->  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="55" alt="Streamlit"/></p>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ketlynathan&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketlynathan&layout=compact&theme=radical"/>
+</p><p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ketlynathan&theme=radical" />
+</p>
 ---
 
-Fluxo orientado a versionamento, automação e entrega ágil de insights
+📫 Contato
 
-Prática em criação de ambientes reprodutíveis e pipelines consistentes
+🔗 LinkedIn: https://www.linkedin.com/in/ketlynathan
+📧 E-mail profissional: (adicione aqui)
+
 
 ---
 
