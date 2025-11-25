@@ -101,8 +101,6 @@ Ketlyn Athan
   <img src="https://img.shields.io/badge/Playwright-%2312B886?style=for-the-badge&logo=playwright&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selenium-%2300ADEF?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/Robot%20Framework-%2300A900?style=for-the-badge&logo=robotframework&logoColor=white"/>
-  
-## 🧪 QA Tester & Automação de Testes
 
 ### 🔧 Frameworks e Tecnologias
 
@@ -129,7 +127,7 @@ Ketlyn Athan
 
 ---
 
-### 📦 Ferramentas & Libs Integradas com Python
+### Ferramentas & Libs Integradas com Python
 
 ![pytest-mock](https://img.shields.io/badge/pytest--mock-Mocks%20em%20Testes-0A9EDC?style=for-the-badge)
 ![allure-pytest](https://img.shields.io/badge/allure--pytest-Relat%C3%B3rios%20Avan%C3%A7ados-FD3A5C?style=for-the-badge)
