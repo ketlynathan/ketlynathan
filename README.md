@@ -1,73 +1,131 @@
-# 👋 Olá! Eu sou a **Ketlyn Athan**  
-**Engenheira de Software | Power BI | Python | SQL | Automação de Processos**
+👋 Olá! Eu sou a Ketlyn Athan
 
-> Transformo dados em insights estratégicos com visualizações inteligentes e automação eficiente.
+Engenheira de Software | QA Tester | Power BI | Python | SQL | Automação de Processos
 
----
-
-## 🎓 Certificações e Formação
- 
-  **Cisco Python Essentials** – Cisco Networking Academy (2025)  
-  [Ver Credencial](https://www.credly.com/badges/3b73417e-fab4-4497-b310-ca984fb58ccb)
-  
-  **Cisco Linux Essentials** – Cisco Networking Academy (2025)  
-  [Ver Credencial](https://www.credly.com/badges/d1672926-752f-4aea-99a9-da1daa99a67f)
+<p align="left">
+  <img src="https://img.shields.io/badge/Engenharia%20de%20Software-%230077B5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/QA%20Tester-%23FF4081?style=for-the-badge&logo=testcafe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>> Transformo dados em insights estratégicos com automação, engenharia de software e testes inteligentes.
 
 ---
 
- <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" width="40"/>  Power BI & Visualização de Dados
+🎓 Certificações & Formação
 
+📘 Cisco Python Essentials – Cisco Networking Academy (2025)
+Ver Credencial
 
-- Modelagem de dados com **Power Query**  
-- Criação de dashboards com **DAX** e **visual storytelling**  
-- Integração com **Python** e **SQL Server**  
-- Construção de relatórios executivos com foco em performance e clareza
+🐧 Cisco Linux Essentials – Cisco Networking Academy (2025)
+Ver Credencial
+
 
 ---
 
- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40"/>  Python para BI e Automação
+📊 Power BI & Visualização de Dados
 
-**pandas | numpy | matplotlib | seaborn | requests | BeautifulSoup**
+<img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" width="40"/>Modelagem de dados com Power Query
 
----
+Dashboards com DAX e foco em storytelling
 
-- Automação de relatórios e extração de dados
+Integração com Python, APIs e SQL Server
 
-- Web scraping de APIs e sites
+Relatórios executivos com foco em performance e clareza
 
-- Pré-processamento e limpeza de dados antes da modelagem
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="40"/>  Banco de Dados
-
-**SQL Server | MySQL | PostgreSQL**
 
 ---
 
-- Consultas otimizadas, joins e agregações
+🐍 Python para BI e Automação
 
-- Criação de pipelines entre SQL e Power BI
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40"/>stack: pandas · numpy · matplotlib · seaborn · requests · BeautifulSoup
 
-- Integração com Python via SQLAlchemy
+Automatização de relatórios e ETLs
 
+Web scraping (APIs REST + sites)
 
-## ⚙️ **CI/CD** e Automação de Deploys
-
----
-
-- Experiência com GitHub Actions 
-
-- Integração contínua de scripts Python e relatórios Power BI
-
-- Deploy automatizado de dashboards e APIs
-
-- Testes automatizados e versionamento de pipelines
+Limpeza e pré-processamento para modelagem
 
 
-## Ferramentas & Ambiente de Trabalho
-
-**Git | GitHub | VS Code | Jupyter | Linux | Streamlit**
 
 ---
 
-- Ambiente orientado a versionamento, automação e entrega ágil de insights.
+🐘 Bancos de Dados
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="40"/>SQL Server | MySQL | PostgreSQL
+
+Consultas otimizadas, joins e agregações
+
+Pipelines entre SQL ↔ Power BI
+
+Integração com Python (SQLAlchemy)
+
+
+
+---
+
+⚙️ CI/CD & Automação de Deploys
+
+Experiência com GitHub Actions
+
+Integração contínua de scripts Python
+
+Deploy automatizado de dashboards e APIs
+
+Testes automatizados e versionamento de pipelines
+
+
+
+---
+
+🛠️ Ferramentas & Ambiente de Trabalho
+
+Git | GitHub | VS Code | Jupyter | Linux | Streamlit
+
+Fluxo orientado a versionamento, automação e entrega ágil de insights
+
+Prática em criação de ambientes reprodutíveis e pipelines consistentes
+
+---
+
+🧪 QA Tester & Automação de Testes
+
+<p>
+  <img src="https://img.shields.io/badge/Pytest-%230A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-%2312B886?style=for-the-badge&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-%2300ADEF?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Robot%20Framework-%2300A900?style=for-the-badge&logo=robotframework&logoColor=white"/>
+</p>Frameworks e Tecnologias
+
+Testes automatizados com Pytest, Unittest e Robot Framework
+
+Testes de interface com Playwright e Selenium
+
+Testes de API com requests, Pytest e HTTPX
+
+Geração de relatórios com Allure
+
+
+Habilidades de QA
+
+Testes funcionais, regressão e smoke
+
+Testes E2E com Playwright (paralelismo e selectors smart)
+
+Automação de cenários com Python + BDD (Behave)
+
+Versionamento de testes e pipelines integrados no GitHub Actions
+
+Mock de APIs com responses e pytest-mock
+
+
+Ferramentas e Libs Integradas com Python
+
+pytest-mock · allure-pytest · requests · httpx · faker · pytest-xdist · playwright-python · seleniumbase · jsonschema
+
+
+
+
+---
 
