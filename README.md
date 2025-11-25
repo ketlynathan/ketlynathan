@@ -28,10 +28,7 @@ Ketlyn Athan
 ---
 
 
----
-
-<img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" width="40"/> 
-## Business Intelligence
+<img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" width="40"/> Business Intelligence
 
 ![DAX](https://img.shields.io/badge/DAX-Data%20Analysis%20Expressions-0A0A0A?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power%20Query-ETL%20%7C%20Transformação%20de%20Dados-0A0A0A?style=for-the-badge&logo=microsoft&logoColor=white)
