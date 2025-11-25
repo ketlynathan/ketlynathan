@@ -12,11 +12,15 @@ Ketlyn Athan
 
 🎓 Certificações
 
-Cisco Python Essentials – Cisco Networking Academy (2025)
-Ver Credencial
-
-🐧 Cisco Linux Essentials – Cisco Networking Academy (2025)
-Ver Credencial
+<p align="left">
+  <a href="https://www.credly.com/badges/3b73417e-fab4-4497-b310-ca984fb58ccb">
+    <img src="https://img.shields.io/badge/Cisco-Python%20Essentials-blue?style=for-the-badge&logo=cisco" />
+  </a>
+  <a href="https://www.credly.com/badges/d1672926-752f-4aea-99a9-da1daa99a67f">
+    <img src="https://img.shields.io/badge/Cisco-Linux%20Essentials-grey?style=for-the-badge&logo=linux" />
+  </a>
+</p>
+---
 
 
 ---
