@@ -15,16 +15,19 @@ Ketlyn Athan
 
 ---
 
-🎓 Certificações
+## 🎓 Certificações & Formação
 
-<p align="left">
-  <a href="https://www.credly.com/badges/3b73417e-fab4-4497-b310-ca984fb58ccb">
-    <img src="https://img.shields.io/badge/Cisco-Python%20Essentials-blue?style=for-the-badge&logo=cisco" />
-  </a>
-  <a href="https://www.credly.com/badges/d1672926-752f-4aea-99a9-da1daa99a67f">
-    <img src="https://img.shields.io/badge/Cisco-Linux%20Essentials-grey?style=for-the-badge&logo=linux" />
-  </a>
-</p>
+![Engenharia de Software](https://img.shields.io/badge/Bacharelado-Engenharia%20de%20Software-4C3BCF?style=for-the-badge&logo=python&logoColor=white)
+
+![Cisco Python Essentials](https://img.shields.io/badge/Cisco-Python%20Essentials-0A9EDC?style=for-the-badge&logo=cisco&logoColor=white)
+[🔗 Ver Credencial](https://www.credly.com/badges/3b73417e-fab4-4497-b310-ca984fb58ccb)
+
+![Cisco Linux Essentials](https://img.shields.io/badge/Cisco-Linux%20Essentials-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[🔗 Ver Credencial](https://www.credly.com/badges/d1672926-752f-4aea-99a9-da1daa99a67f)
+
+![Cisco Cybersecurity Essentials](https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-E63946?style=for-the-badge&logo=cisco&logoColor=white)
+
+![UiPath Advanced RPA](https://img.shields.io/badge/UiPath-Advanced%20RPA-F37335?style=for-the-badge&logo=uipath&logoColor=white)
 
 ---
 
