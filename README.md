@@ -27,15 +27,70 @@ Ketlyn Athan
 
 <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" width="40"/> Power BI & Visualização de Dados
 
-<p align="left">
-  <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" width="55" alt="Power BI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="55" alt="SQL Server"/>
-</p>
+<!-- CONTAINER DOS CARDS -->
+<div style="display: flex; flex-wrap: wrap; gap: 12px; margin-top: 10px;">
 
+  <!-- CARD 1 -->
+  <div style="
+      padding: 12px 18px;
+      background: #F2C811;
+      border-radius: 10px;
+      font-weight: bold;
+      font-size: 15px;
+      color: #000;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    "
+    onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.25)'"
+    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
+    Modelagem com Power Query
+  </div>
 
+  <!-- CARD 2 -->
+  <div style="
+      padding: 12px 18px;
+      background: #1F6FEB;
+      border-radius: 10px;
+      font-weight: bold;
+      font-size: 15px;
+      color: #fff;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    "
+    onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.25)'"
+    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
+    DAX Avançado
+  </div>
+
+  <!-- CARD 3 -->
+  <div style="
+      padding: 12px 18px;
+      background: #FF007F;
+      border-radius: 10px;
+      font-weight: bold;
+      font-size: 15px;
+      color: #fff;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    "
+    onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.25)'"
+    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
+    Storytelling & Dashboards Executivos
+  </div>
+
+  <!-- CARD 4 -->
+  <div style="
+      padding: 12px 18px;
+      background: #0E8A16;
+      border-radius: 10px;
+      font-weight: bold;
+      font-size: 15px;
+      color: #fff;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    "
+    onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.25)'"
+    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
+    Integração com Python e SQL
+  </div>
+
+</div>
 
 ---
 
