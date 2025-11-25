@@ -15,9 +15,11 @@ Ketlyn Athan
 
 ---
 
-## 🎓 Certificações & Formação
+## 🎓 Certificações
 
 ![Engenharia de Software](https://img.shields.io/badge/Bacharelado-Engenharia%20de%20Software-4C3BCF?style=for-the-badge&logo=python&logoColor=white)
+
+---
 
 ![Cisco Python Essentials](https://img.shields.io/badge/Cisco-Python%20Essentials-0A9EDC?style=for-the-badge&logo=cisco&logoColor=white)
 [🔗 Ver Credencial](https://www.credly.com/badges/3b73417e-fab4-4497-b310-ca984fb58ccb)
@@ -136,5 +138,5 @@ Ketlyn Athan
 
 📫 Contato
 
-🔗 LinkedIn: https://www.linkedin.com/in/ketlynathan
+🔗 LinkedIn: www.linkedin.com/in/ketlyn-athan
 📧 E-mail: (ketlynathan99@outlook.com)
