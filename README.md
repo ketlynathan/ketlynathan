@@ -25,6 +25,7 @@ Ketlyn Athan
     <img src="https://img.shields.io/badge/Cisco-Linux%20Essentials-grey?style=for-the-badge&logo=linux" />
   </a>
 </p>
+
 ---
 
 
@@ -38,15 +39,18 @@ Ketlyn Athan
 ---
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40"/> Python para BI e Automação
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40"/> Stack – Processamento de Dados & Automação
 
-stack: pandas · numpy · matplotlib · seaborn · requests · BeautifulSoup
+![Pandas](https://img.shields.io/badge/Pandas-Manipulação%20de%20Dados-0A0A0A?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Cálculos%20Numéricos-0A0A0A?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualização%20Gráfica-0A0A0A?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-Estatística%20e%20Gráficos-0A0A0A?style=for-the-badge&logo=python&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-Requisições%20HTTP-0A0A0A?style=for-the-badge&logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-Web%20Scraping-0A0A0A?style=for-the-badge&logo=python&logoColor=white)
 
-Automatização de relatórios e ETLs
-
-Web scraping (APIs REST + sites)
-
-Limpeza e pré-processamento para modelagem
+![Automatização de ETLs](https://img.shields.io/badge/Automatização%20de%20ETLs-Relatórios%20e%20Pipelines-0A0A0A?style=for-the-badge&logo=databricks&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-APIs%20REST%20%2B%20Sites-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pré-processamento](https://img.shields.io/badge/Pré--processamento-Limpeza%20%7C%20Modelagem-0A0A0A?style=for-the-badge&logo=python&logoColor=white)
 
 
 
