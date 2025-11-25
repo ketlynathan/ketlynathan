@@ -32,70 +32,12 @@ Ketlyn Athan
 
 <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" width="40"/> Power BI & Visualização de Dados
 
-<!-- CONTAINER DOS CARDS -->
-<div style="display: flex; flex-wrap: wrap; gap: 12px; margin-top: 10px;">
+## 📊 Business Intelligence
 
-  <!-- CARD 1 -->
-  <div style="
-      padding: 12px 18px;
-      background: #F2C811;
-      border-radius: 10px;
-      font-weight: bold;
-      font-size: 15px;
-      color: #000;
-      transition: transform 0.2s ease, box-shadow 0.2s ease;
-    "
-    onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.25)'"
-    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
-    Modelagem com Power Query
-  </div>
-
-  <!-- CARD 2 -->
-  <div style="
-      padding: 12px 18px;
-      background: #1F6FEB;
-      border-radius: 10px;
-      font-weight: bold;
-      font-size: 15px;
-      color: #fff;
-      transition: transform 0.2s ease, box-shadow 0.2s ease;
-    "
-    onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.25)'"
-    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
-    DAX Avançado
-  </div>
-
-  <!-- CARD 3 -->
-  <div style="
-      padding: 12px 18px;
-      background: #FF007F;
-      border-radius: 10px;
-      font-weight: bold;
-      font-size: 15px;
-      color: #fff;
-      transition: transform 0.2s ease, box-shadow 0.2s ease;
-    "
-    onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.25)'"
-    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
-    Storytelling & Dashboards Executivos
-  </div>
-
-  <!-- CARD 4 -->
-  <div style="
-      padding: 12px 18px;
-      background: #0E8A16;
-      border-radius: 10px;
-      font-weight: bold;
-      font-size: 15px;
-      color: #fff;
-      transition: transform 0.2s ease, box-shadow 0.2s ease;
-    "
-    onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.25)'"
-    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
-    Integração com Python e SQL
-  </div>
-
-</div>
+![DAX](https://img.shields.io/badge/DAX-Data%20Analysis%20Expressions-0A0A0A?style=for-the-badge&logo=powerbi&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-ETL%20%7C%20Transformação%20de%20Dados-0A0A0A?style=for-the-badge&logo=microsoft&logoColor=white)
+![Dashboards](https://img.shields.io/badge/Dashboards-Visualização%20Interativa-0A0A0A?style=for-the-badge&logo=databricks&logoColor=white)
+![Python + SQL](https://img.shields.io/badge/Python%20%2B%20SQL-Automação%20%7C%20Pipelines-0A0A0A?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
