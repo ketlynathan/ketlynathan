@@ -10,9 +10,9 @@ Ketlyn Athan
 
 ---
 
-🎓 Certificações & Formação
+🎓 Certificações
 
-📘 Cisco Python Essentials – Cisco Networking Academy (2025)
+Cisco Python Essentials – Cisco Networking Academy (2025)
 Ver Credencial
 
 🐧 Cisco Linux Essentials – Cisco Networking Academy (2025)
@@ -21,9 +21,9 @@ Ver Credencial
 
 ---
 
-📊 Power BI & Visualização de Dados
+<img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" width="40"/> Power BI & Visualização de Dados
 
-<img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" width="40"/>Modelagem de dados com Power Query
+Modelagem de dados com Power Query
 
 Dashboards com DAX e foco em storytelling
 
@@ -35,9 +35,10 @@ Relatórios executivos com foco em performance e clareza
 
 ---
 
-🐍 Python para BI e Automação
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40"/>stack: pandas · numpy · matplotlib · seaborn · requests · BeautifulSoup
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40"/> Python para BI e Automação
+
+stack: pandas · numpy · matplotlib · seaborn · requests · BeautifulSoup
 
 Automatização de relatórios e ETLs
 
@@ -49,9 +50,9 @@ Limpeza e pré-processamento para modelagem
 
 ---
 
-🐘 Bancos de Dados
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="40"/>SQL Server | MySQL | PostgreSQL
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="40"/> Bancos de Dados
+SQL Server | MySQL | PostgreSQL
 
 Consultas otimizadas, joins e agregações
 
@@ -79,7 +80,8 @@ Testes automatizados e versionamento de pipelines
 
 🛠️ Ferramentas & Ambiente de Trabalho
 
-Git | GitHub | VS Code | Jupyter | Linux | Streamlit
+<p align="left">  <!-- Git -->  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="55" alt="Git"/>  <!-- GitHub -->  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" alt="GitHub"/>  <!-- VS Code -->  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" alt="VS Code"/>  <!-- Jupyter -->  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55" alt="Jupyter"/>  <!-- Linux -->  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" alt="Linux"/>  <!-- Streamlit -->  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="55" alt="Streamlit"/></p>
+---
 
 Fluxo orientado a versionamento, automação e entrega ágil de insights
 
@@ -94,6 +96,7 @@ Prática em criação de ambientes reprodutíveis e pipelines consistentes
   <img src="https://img.shields.io/badge/Playwright-%2312B886?style=for-the-badge&logo=playwright&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selenium-%2300ADEF?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/Robot%20Framework-%2300A900?style=for-the-badge&logo=robotframework&logoColor=white"/>
+  
 </p>Frameworks e Tecnologias
 
 Testes automatizados com Pytest, Unittest e Robot Framework
