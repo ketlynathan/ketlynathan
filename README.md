@@ -79,22 +79,8 @@ Ketlyn Athan
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ketlynathan&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketlynathan&layout=compact&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ketlynathan&theme=radical"/>
-</p>
-
-
-
----
-
-🧪 QA Tester & Automação de Testes
+## QA Tester & Automação de Testes
 
 <p>
   <img src="https://img.shields.io/badge/Pytest-%230A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
