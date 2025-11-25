@@ -27,13 +27,16 @@ Ketlyn Athan
 
 <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" width="40"/> Power BI & Visualização de Dados
 
-Modelagem de dados com Power Query
+<p>
+  <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" width="55"/>
+</p>
+Modelagem com Power Query
 
-Dashboards com DAX e foco em storytelling
+DAX avançado
 
-Integração com Python, APIs e SQL Server
+Storytelling & dashboards executivos
 
-Relatórios executivos com foco em performance e clareza
+Integração com Python e SQL
 
 
 
