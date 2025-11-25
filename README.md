@@ -27,9 +27,6 @@ Ketlyn Athan
 
 <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" width="40"/> Power BI & Visualização de Dados
 
-<p>
-  <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" width="55"/>
-</p>
 Modelagem com Power Query
 
 DAX avançado
@@ -72,14 +69,16 @@ Integração com Python (SQLAlchemy)
 ---
 
 ⚙️ CI/CD & Automação de Deploys
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="55"/>
+</p>
+---
 
-Experiência com GitHub Actions
-
-Integração contínua de scripts Python
-
-Deploy automatizado de dashboards e APIs
-
-Testes automatizados e versionamento de pipelines
 
 
 
