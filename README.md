@@ -29,12 +29,12 @@ Ketlyn Athan
 ---
 
 
-<img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" width="40"/> Business Intelligence
+<img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" width="40"/> Business Intelligence (BI)
 
-![DAX](https://img.shields.io/badge/DAX-Data%20Analysis%20Expressions-0A0A0A?style=for-the-badge&logo=powerbi&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-ETL%20%7C%20Transformação%20de%20Dados-0A0A0A?style=for-the-badge&logo=microsoft&logoColor=white)
-![Dashboards](https://img.shields.io/badge/Dashboards-Visualização%20Interativa-0A0A0A?style=for-the-badge&logo=databricks&logoColor=white)
-![Python + SQL](https://img.shields.io/badge/Python%20%2B%20SQL-Automação%20%7C%20Pipelines-0A0A0A?style=for-the-badge&logo=python&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-Modelagem%20de%20Dados-0E6A43?style=for-the-badge&logo=powerbi&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-Medidas%20%7C%20Cálculos-DAA520?style=for-the-badge&logo=powerbi&logoColor=white)
+![Dashboarding](https://img.shields.io/badge/Dashboards-Storytelling%20Executivo-1F4E79?style=for-the-badge&logo=powerbi&logoColor=white)
+![Python & SQL](https://img.shields.io/badge/Integração-Python%20%E2%86%94%20SQL-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
