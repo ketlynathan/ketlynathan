@@ -58,14 +58,14 @@ Ketlyn Athan
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="40"/> Bancos de Dados
-SQL Server | MySQL | PostgreSQL
 
-Consultas otimizadas, joins e agregações
+![SQL Server](https://img.shields.io/badge/SQL%20Server-Administração%20%7C%20Consultas-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Queries%20%7C%20Modelagem-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Desempenho%20%7C%20Joins-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Pipelines entre SQL ↔ Power BI
-
-Integração com Python (SQLAlchemy)
-
+![Consultas Otimizadas](https://img.shields.io/badge/Consultas%20Otimizadas-Joins%20%7C%20Agregações-0A0A0A?style=for-the-badge&logo=databricks&logoColor=white)
+![Pipelines SQL ↔ Power BI](https://img.shields.io/badge/Pipelines%20SQL%20%E2%86%94%20Power%20BI-Modelagem%20%7C%20ETL-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Integração com Python](https://img.shields.io/badge/Integração%20com%20Python-SQLAlchemy%20%7C%20Automação-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 ---
