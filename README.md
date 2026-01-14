@@ -85,38 +85,6 @@ Ketlyn Athan
 ---
 
 
-## QA Tester & Automação de Testes
-
-<p>
-  <img src="https://img.shields.io/badge/Pytest-%230A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Playwright-%2312B886?style=for-the-badge&logo=playwright&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-%2300ADEF?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Robot%20Framework-%2300A900?style=for-the-badge&logo=robotframework&logoColor=white"/>
-
-### 🔧 Frameworks e Tecnologias
-
-![Pytest](https://img.shields.io/badge/Pytest-Testes%20Automatizados-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Unittest](https://img.shields.io/badge/Unittest-Testes%20nativos%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Robot Framework](https://img.shields.io/badge/Robot%20Framework-Automa%C3%A7%C3%A3o%20de%20Testes-000000?style=for-the-badge&logo=robotframework&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-Testes%20de%20Interface-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-Web%20UI%20Testing-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![HTTPX](https://img.shields.io/badge/HTTPX-Testes%20de%20API-0A0A0A?style=for-the-badge&logo=python&logoColor=white)
-![Requests](https://img.shields.io/badge/Requests-APIs%20REST-000000?style=for-the-badge&logo=python&logoColor=white)
-![Allure](https://img.shields.io/badge/Allure-Relat%C3%B3rios%20de%20Testes-FD3A5C?style=for-the-badge&logo=allure&logoColor=white)
-
----
-
-### 🛠️ Habilidades de QA
-
-![Funcionais](https://img.shields.io/badge/Testes%20Funcionais-Crit%C3%ADcos-4C3BCF?style=for-the-badge)
-![Regressão](https://img.shields.io/badge/Testes%20de%20Regress%C3%A3o-Avalia%C3%A7%C3%A3o%20Cont%C3%ADnua-6A0572?style=for-the-badge)
-![Smoke](https://img.shields.io/badge/Smoke%20Testing-Valida%C3%A7%C3%A3o%20R%C3%A1pida-8D99AE?style=for-the-badge)
-![E2E](https://img.shields.io/badge/E2E%20Testing-Playwright%20%7C%20Selectors%20Smart-2A9D8F?style=for-the-badge)
-![BDD](https://img.shields.io/badge/BDD-Behave%20%7C%20Python-264653?style=for-the-badge)
-![CI/CD](https://img.shields.io/badge/Pipelines-GitHub%20Actions-24292E?style=for-the-badge&logo=githubactions&logoColor=white)
-![Mocks](https://img.shields.io/badge/Mock%20de%20APIs-responses%20%7C%20pytest--mock-E76F51?style=for-the-badge)
-
----
 
 ### Ferramentas & Libs Integradas com Python
 
