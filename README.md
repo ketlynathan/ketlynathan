@@ -8,8 +8,7 @@ Ketlyn Athan
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  
-  <img src="https://img.shields.io/badge/QA%20Tester-%23FF4081?style=for-the-badge&logo=testcafe&logoColor=white"/>
+
 
 </p>> Transformo dados em insights estratégicos com automação, engenharia de software e testes inteligentes.
 
