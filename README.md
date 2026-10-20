@@ -76,7 +76,14 @@
 
 ---
 
+
+🎓 Formação & Certificações
+Bacharelado em Engenharia de Software
+
+Cisco Python Essentials
 ## 🚀 Arquitetura de Referência: AI & RAG Pipeline
+
+---
 
 ```text
 [ Cliente / Aplicação Frontend ]
@@ -97,12 +104,7 @@
 [ Pipeline CI/CD (GitHub Actions) ➔ Docker ➔ Deploy Cloud ]
 
 ```text
----
 
-🎓 Formação & Certificações
-Bacharelado em Engenharia de Software
-
-Cisco Python Essentials
 
 Cisco Linux Essentials
 
