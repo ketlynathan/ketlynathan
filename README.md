@@ -1,20 +1,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+a+Ketlyn+Athan+👋;Software+Engineer;AI+Integration+%7C+RAG+%7C+Agentic+AI;Backend+%7C+DevOps+%7C+CI%2FCD" alt="Typing Effect" />
-</h1>
-<p align="center">
-  <b>Software Engineer | Backend Development | Python | AI Integration | Automation </b>
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
-> Engenheira de Software focada no design de sistemas escaláveis, arquitetura de microsserviços, integração avançada de IA e automação de alta performance. Experiência consolidada em toda a stack — do desenvolvimento backend e frontend à infraestrutura, testes automatizados e observabilidade.
 
 ---
 
@@ -43,6 +29,21 @@
 </div>
 
 ---
+</h1>
+<p align="center">
+  <b>Software Engineer | Backend Development | Python | AI Integration | Automation </b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+> Engenheira de Software focada no design de sistemas escaláveis, arquitetura de microsserviços, integração avançada de IA e automação de alta performance. Experiência consolidada em toda a stack — do desenvolvimento backend e frontend à infraestrutura, testes automatizados e observabilidade.
 
 ## 🧠 AI Engineering | Agentic AI, RAG & LLMs
 
