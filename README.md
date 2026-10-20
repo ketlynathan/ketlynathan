@@ -4,7 +4,6 @@
 <p align="center">
   <b>Software Engineer | Backend Development | Python | AI Integration | Automation </b>
 </p>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -16,6 +15,32 @@
 </p>
 
 > Engenheira de Software focada no design de sistemas escaláveis, arquitetura de microsserviços, integração avançada de IA e automação de alta performance. Experiência consolidada em toda a stack — do desenvolvimento backend e frontend à infraestrutura, testes automatizados e observabilidade.
+
+---
+
+## 🎓 Formação & Certificações
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/🎓_Bacharelado-Engenharia_de_Software-4C3BCF?style=for-the-badge" alt="Engenharia de Software"/>
+
+  <br/><br/>
+
+  <a href="https://www.credly.com/badges/3b73417e-fab4-4497-b310-ca984fb58ccb">
+    <img src="https://img.shields.io/badge/Cisco-Python_Essentials-0A9EDC?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Python Essentials"/>
+  </a>
+
+  <a href="https://www.credly.com/badges/d1672926-752f-4aea-99a9-da1daa99a67f">
+    <img src="https://img.shields.io/badge/Cisco-Linux_Essentials-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Cisco Linux Essentials"/>
+  </a>
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Cisco-Cybersecurity_Essentials-E63946?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity Essentials"/>
+
+  <img src="https://img.shields.io/badge/UiPath-Advanced_RPA-F37335?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath Advanced RPA"/>
+
+</div>
 
 ---
 
@@ -76,32 +101,22 @@
 
 ---
 
+## 🚀 Arquitetura de Referência
 
-## 🎓 Formação & Certificações
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/🎓_Bacharelado-Engenharia_de_Software-4C3BCF?style=for-the-badge" alt="Engenharia de Software"/>
-
-  <br/><br/>
-
-  <a href="https://www.credly.com/badges/3b73417e-fab4-4497-b310-ca984fb58ccb">
-    <img src="https://img.shields.io/badge/Cisco-Python_Essentials-0A9EDC?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Python Essentials"/>
-  </a>
-
-  <a href="https://www.credly.com/badges/d1672926-752f-4aea-99a9-da1daa99a67f">
-    <img src="https://img.shields.io/badge/Cisco-Linux_Essentials-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Cisco Linux Essentials"/>
-  </a>
-
-  <br/>
-
-  <img src="https://img.shields.io/badge/Cisco-Cybersecurity_Essentials-E63946?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity Essentials"/>
-
-  <img src="https://img.shields.io/badge/UiPath-Advanced_RPA-F37335?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath Advanced RPA"/>
-
-</div>
-
----
+```mermaid
+flowchart TD
+    A["Frontend / Cliente"] --> B["Backend API - Python / NestJS"]
+    B --> C["Orquestrador de Agentes"]
+    C --> D["Pipeline RAG"]
+    D --> E["Base Vetorial"]
+    C --> F["Integração LLM"]
+    C --> G["APIs Externas"]
+    F --> H["Validação de Respostas"]
+    G --> H
+    H --> I["PostgreSQL / SQL"]
+    J["GitHub Actions - CI/CD"] --> K["Docker / Cloud Deploy"]
+    K -.-> B
+  
 
 ## 📫 Contato
 
@@ -122,32 +137,3 @@
 </div>
 
 ---
-
-```text
-[ Cliente / Aplicação Frontend ]
-               │
-               ▼
-[ Backend / API Gateway (Python / NestJS) ]
-               │
-               ├──► [ Orquestração & Agentes Autônomos (Agentic AI) ]
-               │              │
-               │              ├──────► [ RAG: Vetorização & Busca Contextual ]
-               │              │
-               │              └──────► [ Integração com LLMs vía API ]
-               │
-               ▼
-[ Validação de Contrato & Persistência Relacional ]
-               │
-               ▼
-[ Pipeline CI/CD (GitHub Actions) ➔ Docker ➔ Deploy Cloud ]
-
-```text
-
-
-Cisco Linux Essentials
-
-Cisco Cybersecurity Essentials
-
-UiPath Advanced RPA
-
-📫 Contato
