@@ -1,15 +1,9 @@
-<h1 align="center">Olá, eu sou a Ketlyn Athan 👋</h1>
-
-<p align="center">
-  <b>Software Engineer | Backend Development | Python | AI Integration | RAG | Automation </b>
-</p>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+a+Ketlyn+Athan+👋;Senior+Software+Engineer;AI+Engineering+%7C+RAG+%7C+Agentic+AI;Backend+%7C+DevOps+%7C+CI%2FCD" alt="Typing Effect" />
 </h1>
-
 <p align="center">
-  <b>Backend Architecture, AI Engineering, RAG & DevOps</b>
+  <b>Software Engineer | Backend Development | Python | AI Integration | Automation </b>
+</p>
 </p>
 
 <p align="center">
