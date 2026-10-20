@@ -64,19 +64,6 @@
 
 ---
 
-## 🧪 Quality Assurance & Testes Automatizados
-
-> **Ferramentas:** Pytest, Playwright, Selenium, Robot Framework, Allure, Pytest-Mock.
-
-![Pytest](https://img.shields.io/badge/Pytest-Testes_Unitários_%26_Integração-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-E2E_Testing-2EAD33?style=for-the-badge)
-![Allure](https://img.shields.io/badge/Allure-Relatórios_Avançados-FD3A5C?style=for-the-badge)
-
-- **Testes Rigorosos:** Suítes completas de testes unitários, funcionais, de integração e validação de contratos (JSON Schema).
-- **Confiabilidade:** Utilização de mocks, fixtures e execução paralela para garantir alta cobertura e regressão segura em ambientes produtivos.
-
----
-
 ## 📊 Data Engineering & Business Intelligence
 
 > **Ferramentas:** Pandas, NumPy, Power BI, DAX, Power Query, SQL.
@@ -108,3 +95,19 @@
                │
                ▼
 [ Pipeline CI/CD (GitHub Actions) ➔ Docker ➔ Deploy Cloud ]
+
+```text
+---
+
+🎓 Formação & Certificações
+Bacharelado em Engenharia de Software
+
+Cisco Python Essentials
+
+Cisco Linux Essentials
+
+Cisco Cybersecurity Essentials
+
+UiPath Advanced RPA
+
+📫 Contato
