@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Ketlyn Athan 👋</h1>
 
 <p align="center">
-  <b> Software Engineer | Backend Architecture, AI Engineering, RAG & DevOps</b>
+  <b>Software Engineer | Backend Development | Python | AI Integration| RAG | Agentic AI | Automation | DevOps</b>
 </p>
 
 <p align="center">
