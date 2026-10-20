@@ -4,6 +4,14 @@
   <b>Software Engineer | Backend Development | Python | AI Integration | RAG | Automation </b>
 </p>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+a+Ketlyn+Athan+👋;Senior+Software+Engineer;AI+Engineering+%7C+RAG+%7C+Agentic+AI;Backend+%7C+DevOps+%7C+CI%2FCD" alt="Typing Effect" />
+</h1>
+
+<p align="center">
+  <b>Backend Architecture, AI Engineering, RAG & DevOps</b>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
