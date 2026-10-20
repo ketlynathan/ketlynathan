@@ -77,11 +77,49 @@
 ---
 
 
-🎓 Formação & Certificações
-Bacharelado em Engenharia de Software
+## 🎓 Formação & Certificações
 
-Cisco Python Essentials
-## 🚀 Arquitetura de Referência: AI & RAG Pipeline
+<div align="center">
+
+  <img src="https://img.shields.io/badge/🎓_Bacharelado-Engenharia_de_Software-4C3BCF?style=for-the-badge" alt="Engenharia de Software"/>
+
+  <br/><br/>
+
+  <a href="https://www.credly.com/badges/3b73417e-fab4-4497-b310-ca984fb58ccb">
+    <img src="https://img.shields.io/badge/Cisco-Python_Essentials-0A9EDC?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Python Essentials"/>
+  </a>
+
+  <a href="https://www.credly.com/badges/d1672926-752f-4aea-99a9-da1daa99a67f">
+    <img src="https://img.shields.io/badge/Cisco-Linux_Essentials-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Cisco Linux Essentials"/>
+  </a>
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Cisco-Cybersecurity_Essentials-E63946?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity Essentials"/>
+
+  <img src="https://img.shields.io/badge/UiPath-Advanced_RPA-F37335?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath Advanced RPA"/>
+
+</div>
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/ketlyn-athan">
+    <img src="https://img.shields.io/badge/LinkedIn-Ketlyn_Athan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:ketlynathan99@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
+  </a>
+
+  <a href="https://github.com/ketlynathan">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+</div>
 
 ---
 
