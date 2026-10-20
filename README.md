@@ -115,6 +115,8 @@ flowchart TD
     H --> I["PostgreSQL / SQL"]
     J["GitHub Actions - CI/CD"] --> K["Docker / Cloud Deploy"]
     K -.-> B
+```
+---
   
 
 ## 📫 Contato
