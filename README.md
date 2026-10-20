@@ -26,7 +26,7 @@
 
 </div>
 
-
+---
 </h1>
 <p align="center">
   <b>Software Engineer | Backend Development | Python | AI Integration | Automation </b>
